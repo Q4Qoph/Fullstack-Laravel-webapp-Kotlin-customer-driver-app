@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Customer App</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string name="gender">Gender</string>
+    <string name="county">County</string>
+    <string name="sub_county">Sub-county</string>
+    <string name="driver_name">Driver Name</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="select_county">Select County</string>
+    <string name="select_sub_county">Select Sub-county</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

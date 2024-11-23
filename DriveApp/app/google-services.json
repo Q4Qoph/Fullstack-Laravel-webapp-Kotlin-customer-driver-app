@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54665302668",
+    "project_id": "yurban-fullstack",
+    "storage_bucket": "yurban-fullstack.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54665302668:android:28cc02cff2a60a180f61a9",
+        "android_client_info": {
+          "package_name": "com.example.driveapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcC-RURCfXJxg0MSTLgvky_pH-Rs0rcX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

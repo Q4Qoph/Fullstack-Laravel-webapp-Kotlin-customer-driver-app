@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.customerapp.ui.HomeFragment"
+        android:label="Home" />
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.customerapp.ui.ProfileFragment"
+        android:label="Profile" />
+    <fragment
+        android:id="@+id/nav_my_rides"
+        android:name="com.example.customerapp.ui.MyRidesFragment"
+        android:label="My Rides" />
+
+</navigation>
+

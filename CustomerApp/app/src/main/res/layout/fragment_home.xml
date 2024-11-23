@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Placeholder for Map -->
+    <TextView
+        android:id="@+id/map_placeholder"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:text="Map Placeholder"
+        android:textColor="#757575"
+        android:textSize="18sp" />
+
+    <!-- Request Ride Button -->
+    <Button
+        android:id="@+id/btnRequestRide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Request Ride"
+        android:layout_margin="16dp"
+        android:textSize="16sp" />
+</LinearLayout>

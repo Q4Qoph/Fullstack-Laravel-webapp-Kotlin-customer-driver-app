@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    <!--
+    Main activity
+    =============
+    -->
+
+
+    <string name="select_gender">Select Gender</string>
+    <string name="select_county">Select County</string>
+    <string name="select_sub_county">Select Sub-county</string>
+
+<!--    gender-->
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+
+
+    <!-- User profile -->
+    <string name="user_profile">
+        Name: %1$s\n
+        Email: %2$s
+    </string>
+
+    <!-- Metadata -->
+    <string name="textview_metadata_heading">Metadata</string>
+    <string name="textview_metadata_info">Use the text box and buttons below to get and set the \'country\' field in the user\'s metadata.</string>
+
+    <!-- "Get" and "Set" buttons -->
+    <string name="button_get">Get</string>
+    <string name="button_set">Set</string>
+
+    <!-- SnackBar messages-->
+    <string name="login_success_message">Successfully logged in! %1$s</string>
+    <string name="login_failure_message">You need to log in to use the app.</string>
+    <string name="general_failure_with_exception_code">Failed - exception code: %1$s</string>
+    <string name="general_success_message">Success!</string>
+    <string name="gender">Gender</string>
+    <string name="county">County</string>
+    <string name="sub_county">Sub-county</string>
+    <string name="driver_name">Driver Name</string>
+</resources>
